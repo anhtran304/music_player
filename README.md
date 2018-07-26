@@ -8,4 +8,4 @@ Music Player in Pascal
   $ ./clean.sh
 
 
-Add music in to file 
+Add music file name in album.dat and copy music file to resources/sound
